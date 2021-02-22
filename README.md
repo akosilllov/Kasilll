@@ -1,4 +1,4 @@
-### Hi, I'm Alex Kosilov 👋
+<h1> Hi, I'm Alex Kosilov 👋</h1>
 
 📝 I'm a young front-end developer from Saint - Petersburg. I like to learn new things and improve my skills, overcome difficulties and work in a team.
 
@@ -6,14 +6,14 @@
 ![Javascript](https://img.shields.io/badge/Javascript-FFFF33?style=for-the-badge&logo=Javascript)
 ![React](https://img.shields.io/badge/React-00bfff?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux)
-![Redux](https://img.shields.io/badge/Redux-00008b?style=for-the-badge&logo=Redux)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=SASS)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&?link=https://simpleicons.org/icons/sass.svg)
 ![Webpack](https://img.shields.io/badge/Webpack-00008b?style=for-the-badge&logo=Webpack)
 
 
-<h3>📫 How to reach me: <h3>
+<h2>📫 How to reach me: <h1>
 <p> 📱 +79606297316</p>
+<a href = "Skosilovs@mail.ru"> 💌 Skosilovs@mail.ru </a>
 
 
 
