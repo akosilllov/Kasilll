@@ -12,8 +12,8 @@
 
 
 <h2>📫 How to reach me: <h1>
-<p> 📱 +79606297316</p>
-<p> 💌 Skosilovs@mail.ru</p>
+<h5> 📱 +79606297316</h5>
+<h5> 💌 Skosilovs@mail.ru</h5>
 
 
 
