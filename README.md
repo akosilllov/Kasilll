@@ -13,7 +13,8 @@
 
 <h2>📫 How to reach me: <h1>
 <p> 📱 +79606297316</p>
-💌 <a href = "Skosilovs@mail.ru">  Skosilovs@mail.ru </a>
+<p> 💌 Skosilovs@mail.ru</p>
+
 
 
 
