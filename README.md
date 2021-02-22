@@ -11,9 +11,9 @@
 ![Webpack](https://img.shields.io/badge/Webpack-00008b?style=for-the-badge&logo=Webpack)
 
 
-<h2>📫 How to reach me: <h1>
-<h5> 📱 +79606297316</h5>
-<h5> 💌 Skosilovs@mail.ru</h5>
+<h2>📫 How to reach me: </h2>
+<h3> 📱 +79606297316</h3>
+<h3> 💌 Skosilovs@mail.ru</h3>
 
 
 
