@@ -1,8 +1,13 @@
 ### Hi, I'm Alex Kosilov 👋
 
 ### Top technology
-![Javascript](https://img.shields.io/badge/Javascript-FFFF33?style=for-the-badge&logo=Javascript
-)
+![Javascript](https://img.shields.io/badge/Javascript-FFFF33?style=for-the-badge&logo=Javascript)
+![React](https://img.shields.io/badge/React-00bfff?style=for-the-badge&logo=React)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=)
+![Redux](https://img.shields.io/badge/Redux-00008b?style=for-the-badge&logo=Redux)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&?link=https://simpleicons.org/icons/sass.svg)
+![Webpack](https://img.shields.io/badge/Webpack-00008b?style=for-the-badge&logo=Webpack)
 
 <!--
 **Kasilll/Kasilll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
