@@ -1,9 +1,9 @@
 ### Hi, I'm Alex Kosilov 👋
 
 ### Top technology
-![Javascript](https://img.shields.io/badge/Javascript-yellow?
-?style=flat-square&logo=Javascript
+![Javascript](https://img.shields.io/badge/Javascript-FFFF33?style=for-the-badge&logo=Javascript
 )
+
 <!--
 **Kasilll/Kasilll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
