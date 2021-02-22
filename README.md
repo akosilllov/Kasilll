@@ -2,6 +2,18 @@
 
 📝 I'm a young front-end developer from Saint - Petersburg. I like to learn new things and improve my skills, overcome difficulties and work in a team.
 
+### My Stack
+<ul>
+    <li>HTML/CSS</li>
+    <li>Javascript/JQuery</li>
+    <li>Flex/Grid/Бэм</li>
+    <li>React/Redux</li>
+    <li>SASS/SCSS</li>
+    <li>Git</li>
+    <li>Webpack</li>
+    <li>Node JS/PHP</li>
+</ul>
+
 ### Top technology
 ![Javascript](https://img.shields.io/badge/Javascript-FFFF33?style=for-the-badge&logo=Javascript)
 ![React](https://img.shields.io/badge/React-00bfff?style=for-the-badge&logo=React)
