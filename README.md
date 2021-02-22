@@ -1,6 +1,6 @@
 ### Hi, I'm Alex Kosilov 👋
 
-📝I'm a young front-end developer from Saint - Petersburg. I like to learn new things and improve my skills, overcome difficulties and work in a team.
+📝 I'm a young front-end developer from Saint - Petersburg. I like to learn new things and improve my skills, overcome difficulties and work in a team.
 
 ### Top technology
 ![Javascript](https://img.shields.io/badge/Javascript-FFFF33?style=for-the-badge&logo=Javascript)
@@ -12,10 +12,9 @@
 ![Webpack](https://img.shields.io/badge/Webpack-00008b?style=for-the-badge&logo=Webpack)
 
 
-📫 How to reach me:
-<ul>
-    <li> 📱 +79606297316</li>
-</ul>
+<h3>📫 How to reach me: <h3>
+<p> 📱 +79606297316</p>
+
 
 
 
