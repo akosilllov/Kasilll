@@ -5,11 +5,13 @@
 ### My Stack
 <ul>
     <li>HTML/CSS</li>
-    <li>Javascript/JQuery</li>
+    <li>Javascript/Typescript</li>
     <li>Flex/Grid/Бэм</li>
     <li>React/Redux</li>
     <li>Redux-saga/Redux-thunk/redux-toolkit</li>
-    <li>SASS/SCSS/styled-component</li>
+    <li>SASS/SCSS</li>
+    <li>Styled-component</li>
+    <li>Material Ui/Tailwind css</li>
     <li>Git</li>
     <li>Webpack</li>
     <li>Node JS/PHP</li>
