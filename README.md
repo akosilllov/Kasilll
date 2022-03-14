@@ -8,7 +8,8 @@
     <li>Javascript/JQuery</li>
     <li>Flex/Grid/Бэм</li>
     <li>React/Redux</li>
-    <li>SASS/SCSS</li>
+    <li>Redux-saga/Redux-thunk/redux-toolkit</li>
+    <li>SASS/SCSS/styled-component</li>
     <li>Git</li>
     <li>Webpack</li>
     <li>Node JS/PHP</li>
